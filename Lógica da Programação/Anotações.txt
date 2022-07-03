@@ -1,0 +1,29 @@
+Indicação de Filme para quem está inciando no curso de DEV:JOGO DA IMITAÇÃO
+
+LOGICA: Planejamento e organização de instruções assertivas para a resolução de um problema, sequencia de instruções.
+
+Seres humanos podem prever comportamentos quando já acostumados com eles, já os computadores não, por esse motivos são necessários inserir nos computadores as instruções as quais serão necessárias para resolução de determinado comportamento ou problema.
+
+Entender logica da programação ensina você a pensar.
+
+METACOGNIÇÃO: Pensar como você pensa
+ABSTRAÇÃO: Fazer de maneira mais simples o mapa mental do problema
+Habilidade de concentrar nos aspectos essenciais de um contexto qualquer ignorando características menos importantes.
+
+TECNICAS DE LOGICA DA PROGRAMAÇÃO
+
+LINEAR: eficaz para a resolução dos problemas
+Modelo tradicional,não tem vínculo com nenhuma estrutura hierarquica e nem com programação de computadores.
+Execução sequenciada onde ordena os elementos por um unica propriedade ou dimensão
+Tem recursos limitados
+
+ESTRUTURADA: Hierarquia, estrutura especifica e condicional
+ordem de tal forma a compor eventos ou um corpo ate satisfazer uma condição
+Objetivo: Escrita, Entendimento, Validação, Manutenção
+Repetição de instruções até que se encontre a resolução do problema
+Utlizado principalmente na area de processamento de dados (tratar os dados)
+
+MODULAR: Partes independentes controlada por um conjunto de regras
+Decompor um problema em partes independentes e simplificar
+
+DADOS DE ENTRADA ----- PROCESSO DE TRANSFORMAÇÃO (INSTRUÇÕES) -------DADOS DE SAIDA

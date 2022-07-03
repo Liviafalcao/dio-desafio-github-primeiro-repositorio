@@ -1,0 +1,87 @@
+
+ALGORITMO: Sequencia de instruções para tratar dados em um computador.
+Sequencia de passos para resolver um problema.Processo de resolução de problemas “Step by Step” – passo a passo – utilizando instruções detalhadas (O que precisa ser feito e qual a ordem das instruções.)
+
+FASES DE ser entendidos pelo computador e ser humano
+
+	DESENVOLVIMENTO DE UM PROGRAMA
+
+ANALISE: Estudo e definição dos dados de entrada e saída
+ALGORITMO: Descreve o problema por meio de:
+Ferramentas narrativas: Utilização de linguagem natural, maneira estruturada ou por codigo o que quer que o algoritmo faça
+Fluxograma: Utilização de simbolos pre definidos
+Pseudocodigos: Português estruturado ou PORTUGOL – regras definidas e passos a serem seguidos, mais proximo de uma codificaçao ou programação
+
+CODIFICAÇÃO: O algoritmo é codificado de acordo a linguagem de programação escolhida
+
+COMO CONSTRUIR UM ALGORITMO
+
+Compreensão do problema
+Definir Dados de Entrada
+Definir Processamento
+Definir dados de saída
+Utilizar metodo de construção
+Teste e diagnostico
+
+FUNDAMENTOS DO ALGORITMO
+
+TIPOLOGIA E VARIAVEIS
+
+Informação -É dividida em duas partes:
+DADOS: Informações tratadas e processadas (Numerica – Inteiros e reais, caracteres e logicos ou booleano – verdadeiro (1) ou falso (0)
+
+INSTRUÇÕES: Operações, como os dados serao processados
+
+VARIAVEIS: Se caracteriza por ser instavel, incerto, mutavel, possui variações e inconstantes
+Pode assumir qualquer um dos valores de um determinado conjunto de valores
+Precisa ser previamente identificada
+Nome da variavel
+
+Regras:
+•	Atribuição de um ou mais caracteres (não precisa ser especificamente apenas um caracter
+•	Primeira letra – não numerica
+•	Sem espaço em branco
+•	Vedado – utilização de palavras reservadas e Caracteres especiais e numeros
+
+PAPEIS DA VARIAVEL
+•	Ação: Modificação de estado durante o programa
+•	Controle: Vigiado e controle mesmo
+
+INSTRUÇÕES
+
+Linguagem de palavras chaves (vocabulário) de uma determinada programação que tem como finalidade comandar um computador que irá tratar os dados.
+
+Cada linguagem de programação terá seu tipo de notação dentro das sua operações
+Cálculos matemáticos: Variáveis e constantes utilizando operadores (binário e unário)
+Binário: Duas variáveis ou dois objetos para executar a operação
+Unário: Inversão decimal ou manutenção de sinal
+
+ESTRUTURA DE DECISÃO CONDICIONAL
+CONDIÇÃO: Estado de uma pessoa ou coisa
+CONDICIONAL: Que expressa uma condição ou suposição, contem ou implica uma suposição ou hipótese dentro da condição
+
+SE-SENAO
+
+SE, caso seja verdadeira faça...
+SENAO, caso seja falsa, faça
+OU CASO E PARE, CASO CONTRARIO
+COMANDO DE QUEBRA DE LINHA NO PORTUGOL: “\n”
+COMANDO PARA COMENTARIO DENTRO DO ALGORITMO: 
+
+VER DIFERENÇA ENTRE ESTRUTURA CONDICIONAL E ESTRUTURA DE REPETIÇÃO
+
+Estrutura condicional: é baseado em uma condição que se for atendida o algoritmo toma uma decisão
+Estruturas de repetição: Para situações que será necessário repetir uma tarefa mais de uma vez
+
+
+VETORES E MATRIZES
+VETOR: É caracterizado por uma variável dimensionada com tamanho pré-fixado. É uma MATRIZ unidimensional.
+MATRIZ: É uma tabela organizada em linhas e colunas no formato “m x n”, onde m representa o número de linhas (horizontal) e n representa o numero de colunas (vertical).
+1.	Coleção de variáveis
+2.	Contíguas em memória
+3.	Índices
+Consegue-se identificar uma variável pela posição que se encontra na matriz.
+
+FUNÇÃO
+As funções ou sub-rotinas são blocos de instruções que realizam tarefas específicas (Decomposição de algoritmos)
+Assinatura de uma função: NOME e PARAMETRO.

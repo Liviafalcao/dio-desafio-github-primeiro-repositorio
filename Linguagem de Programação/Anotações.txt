@@ -1,0 +1,78 @@
+LINGUAGEM DE PROGRAMAÇÃO
+
+Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte (conjunto de palavras com regras) que são regidos por determinado padrão.
+
+CODIGO FONTE: Pode ser traduzido ou interpretado.
+
+TRADUÇÃO:
+Execução mais rápida
+Linguagem de alto nível – Compilador (Executa análise do programa) – converter em linguagem de máquina (assembly)
+PROGRAMA FONTE: Programa de alto nível
+PROGRAMA OBJETO: Programa originado do processo de tradução
+
+INTERPRETAÇÃO
+Programas menores e maios flexibilidade
+
+EXISTEM BOAS PRATICAS EM PROGRAMAÇÃO NO DESENVOLVIMENTO DE PROGRAMAS:
+DIRETRIZES:
+•	Legibilidade (Coerência nas instruções - ortogonalidade, compreensão e definição adequada das estruturas) 
+
+•	Redigibilidade (Facilidade de escrita de código, simplicidade da escrita, ortogonalidade, suporte à abstração, reuso do código, expressividade – simplificar a linha de comando)
+
+•	Confiabilidade (Faz o que foi programado para fazer, trata exceções, uso de ponteiro, compatibilidade entre compiladores)
+
+•	Custo (Analise de impacto, treinamento do pessoal, codificação, compilação, execução e infra-estrutura
+Outras características para se programar bem:
+
+•	Comunidade Ativa: Auxílio de outras ferramentas para ajudar 
+
+•	Uso para IA:
+
+•	Disponibilidade de ferramentas: Linguagem de programação de acordo as ferramentas disponíveis
+
+•	Atualizações
+
+•	Adoção pelo mercado
+
+
+ANALISES DE CODIGO
+A sintaxe trata das propriedades livres da linguagem como a verificação gramatical de programas. A semântica objetiva dar uma interpretação para a linguagem como um significado ou valor para um determinado programa. Conseqüentemente, a sintaxe basicamente manipula símbolos sem considerar os seus correspondentes significados.
+ANALISES LEXICAS: também conhecida como scanner ou leitura é a primeira fase de um processo de compilação e sua função é fazer a leitura do programa fonte, caractere a caractere, agrupar os caracteres em lexemas e produzir uma sequência de símbolos léxicos conhecidos como tokens. O processo de analisar a entrada de linhas de caracteres (tal como o código-fonte de um programa de computador) e produzir uma sequência de símbolos chamado "símbolos léxicos" (lexical tokens), ou somente "símbolos" (tokens), que podem ser manipulados mais facilmente por um parser (leitor de saída)
+Três etapas: 
+Particiona = Elementos denominados tokens
+Classificar =Identificadores, palavras reservadas, números, strings
+Eliminar = Caracteres de espaços em branco e comentários e tudo que não é necessario para execução de um programa
+
+ANALISES SINTATICA (Forma): Componente de sistema linguistico que interligam os constituintes de da sentença, atribuindo-lhe uma estrutura. (corretude do programa). O padrão da gramática depende da linguagem de programação utilizada.
+Ex.: Comando PRINT 
+Erro na escrita dos códigos que correspondem a sua linguagem de programação
+
+ANALISE SEMANTICAS (Significado): Estudo do significado, incide sobre a relação dos significantes como: palavras, frases, sinais e símbolos (se estão corretos)- A LOGICA DO PROGRAMA.
+Erro: Programa não faz o que deveria fazer.
+
+PARADIGMAS DE PROGRAMAÇÃO
+PARADIGMA: Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma, utilizando linguagem de programação. É um modelo ou padrão a seguir. Etimologicamente, este termo tem origem no grego paradeigma que significa modelo ou padrão, correspondendo a algo que vai servir de modelo ou exemplo a ser seguido em determinada situação.
+
+CLASSIFICAÇAO:
+•	Orientado a Objetos: Abstração que trata o programa com base em classes e objetos
+
+•	Procedural: Chamadas Sucessivas e procedimentos separados
+
+•	Funcional: Instruções são baseadas em funções
+
+•	Estruturado: Estrutura de blocos alinhados
+
+•	Computação distribuida: Funções executadas de forma independente
+
+•	Lógico
+
+PARADIGMA ESTRUTURADO: Sequencia, Decisão e iteração (função, laços e condições).
+Enfase em sequencia (uma instrução é executado apos a outra)
+Varios testes logicos 
+Resolve problemas simples e diretos e aprender programação.
+
+PARADIGMA ORIENTADO A OBJETOS (POO): Baseado na utilização de objetos e suas interaçõs – análogo ao mundo real.
+Objeto: é descrito por características específicas, comportamentos e estado
+O que tenho (Características – ATRIBUTOS) – sou capaz de fazer (comportamentos - METODOS) – Como faço (estado - ESTADOS) = MODELO = classificação
+
+CLASSE: Conjunto de objetos similares

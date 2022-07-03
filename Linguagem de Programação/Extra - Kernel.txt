@@ -1,0 +1,29 @@
+Quando o computador é ligado, o que existe é apenas uma máquina e mais nada.
+A CPU inicia o ciclo de processamento no endereço zero da memória, que contém um
+programa, um software, chamado BIOS - basic input output sistem - basicamente o
+essencial para não ficar uma máquina inoperante.
+
+Esse software chamado BIOS faz uma sequência de testes e depois faz uma varredura
+nos dispositivos em busca de um sistema operacional. Se não encontra, congela. Para.
+Se encontra, procura as instruções do que deve carregar. E introduz um outro software
+dentro da memória e a execução passa a ser feita por esse software. O programa
+chamado BIOS desaparece, deixa de rodar, e assume outro programa.
+
+Esse programa é o chamado kernel, ou núcleo, ele vai ser o responsável por fazer o
+papel de input / output, entradas e saídas. Esse núcleo gerencia a execução de outros
+programas. Até aqui, a BIOS e o kernel são programas solitários q rodam no computador
+mas o kernel vai gerenciar a execução de outros programas.
+
+O programa q é responsável por fazer uma sequência de números sair pelas caixas de som.
+Outro programa q é responsável por fazer uma sequência de números aparecer no monitor.
+Outro programa q é responsável por fazer sequências de números entrar e sair pela
+interface de rede, ou pelo modem, ou por uma antena.
+
+Se vc dá o comando ps -A poderá observar q mesmo sem nenhum programa rodando no
+seu desktop tem uma quantidade muito grande rodando sem q vc perceba.
+Se vc dá o comando lsmod vai perceber que tem vários programas inseridos junto ao
+kernel para providenciar uma série de funcionalidades do seu hardware.
+
+Portanto basicamento, o kernel ou núcleo, é um software que gerencia os outros softwares.
+O núcleo é um software com o qual o usuário não tem interação direta.
+Ou como disseram os colegas acima, um tradutor, um intérprete entre o hardware e os softwares.
